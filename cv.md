@@ -1,7 +1,7 @@
 # CV for RSSchool
 ## First Name, Last Name (real ones)
   Roman Korostelev
-## Contacts
+### Contacts
  telegram: @Billreis email: korostelevroman11@gmail.com
 ## Summary
  I like programming ans like to be creator of something
