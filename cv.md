@@ -4,7 +4,7 @@
 ### Contacts
  telegram: @Billreis email: korostelevroman11@gmail.com
 ## Summary
- I like programming ans like to be creator of something
+ I like to write programs as a true creator)
 ## Skills
  C++, Python
 ## Code examples
